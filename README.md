@@ -1,1 +1,1 @@
-# NewsFeed-app
+Refrence for creating recyclerview for texts
